@@ -1,0 +1,6 @@
+com\nhs\skills\endpoints\SkillsEndpointDeleteSkillTest.class
+com\nhs\skills\endpoints\SkillsEndpointAddSkillTest.class
+com\nhs\skills\endpoints\SkillsEndpointGetSkillsTest.class
+com\nhs\skills\endpoints\SkillsEndpointTest.class
+com\nhs\skills\endpoints\SkillsEndpointUpdateCustomerTest.class
+com\nhs\skills\services\SkillsServiceImplTest.class

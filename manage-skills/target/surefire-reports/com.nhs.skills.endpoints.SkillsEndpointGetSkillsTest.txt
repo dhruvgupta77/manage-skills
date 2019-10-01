@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nhs.skills.endpoints.SkillsEndpointGetSkillsTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.711 s - in com.nhs.skills.endpoints.SkillsEndpointGetSkillsTest
